@@ -37,7 +37,7 @@ dependency_overrides:
   cupertino_icons: ^1.0.2
   firebase_core: ^2.14.0
   intl: ^0.18.1
-  cloud_firestore: ^4.8.2
+  cloud_firestore: ^5.4.1
   shared_preferences: ^2.2.0
   font_awesome_flutter: ^10.5.0
   slide_to_act: ^2.0.1
@@ -56,7 +56,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

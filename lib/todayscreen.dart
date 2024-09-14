@@ -72,7 +72,7 @@ class _TodayScreenState extends State<TodayScreen> {
     double targetLatitude = 26.2304678;
     double targetLongitude = 68.3749919;
     double maxDistance =
-        500; // Maximum allowed distance in meters from the target area
+        5000; // Maximum allowed distance in meters from the target area
 
     Position userPosition = await Geolocator.getCurrentPosition(
       desiredAccuracy: LocationAccuracy.best,
